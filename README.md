@@ -20,14 +20,14 @@
    - Machine learning with Pyomo, robust regression, sparse regression
 
 
-## Instructions for Part 1 (December 3rd)
+## Instructions for Part 1
 
 - Please navigate to https://www.anaconda.com/download/ and download Python 3.7 version of Anaconda. 
 - After installation, open Anaconda and launch Jupyter notebook 5.0.0 or above.
 - Either a browser should open automatically, or a terminal will open. Follow the instructions on the terminal. 
 - If you see a Jupyter screen in your browser, you have completed the pre-assignment!
 
-## Instructions for Part 2 (January 15th)
+## Instructions for Part 2
 
 - Navigate to https://www.coin-or.org/Ipopt/documentation/ and download and install Ipopt.
 - Make sure gurobi is set up on your computer and that your academic license is valid.
