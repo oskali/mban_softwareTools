@@ -36,7 +36,7 @@
 <br />
 
 
-Please email me to oskali@mit.edu if you have any questions.
+Please email me at oskali@mit.edu if you have any questions.
 
 Omar
 
